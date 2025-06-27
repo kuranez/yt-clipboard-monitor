@@ -1,6 +1,8 @@
 # YouTube Clipboard Monitor
 
-A lightweight system tray application for KDE desktop environments that automatically monitors your clipboard for YouTube URLs and downloads the audio as MP3 files. While optimized for KDE, it is also compatible with other Linux desktop environments such as GNOME, provided system tray and notification support are available. The included setup instructions target Debian-based systems, but the application can work on other Linux distributions with minor adjustments (see Installation section for Fedora, Arch, etc.). Cross-platform support (e.g., Windows, macOS) is not provided out of the box.
+A lightweight system tray application for KDE desktop environments that automatically monitors your clipboard for YouTube URLs and downloads the audio as MP3 files. 
+
+While optimized for KDE, it is also compatible with other Linux desktop environments such as GNOME, provided system tray and notification support are available. The included setup instructions target Debian-based systems, but the application can work on other Linux distributions with minor adjustments (see Installation section for Fedora, Arch, etc.). Cross-platform support (e.g., Windows, macOS) is not provided out of the box.
 
 ## Features
 
