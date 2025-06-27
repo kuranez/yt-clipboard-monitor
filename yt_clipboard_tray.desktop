@@ -1,21 +1,8 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Comment[de_DE]=Run clipboard YouTube downloader with tray icon
+Name=YouTube Clipboard Monitor
 Comment=Run clipboard YouTube downloader with tray icon
 Exec=python3 /home/kuranez/Scripts/yt_clipboard_tray.py
-GenericName[de_DE]=
-GenericName=
-Hidden=false
 Icon=im-youtube
-MimeType=
-Name[de_DE]=YouTube Clipboard Downloader
-Name=YouTube Clipboard Downloader
-NoDisplay=false
-Path=
-StartupNotify=true
-Terminal=false
-TerminalOptions=
 Type=Application
+Terminal=false
 X-GNOME-Autostart-enabled=true
-X-KDE-SubstituteUID=false
-X-KDE-Username=

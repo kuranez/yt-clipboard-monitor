@@ -16,7 +16,7 @@ class YTClipboardTrayApp(QtWidgets.QSystemTrayIcon):
         self.setIcon(icon)
 
         # Tooltip on hover
-        self.setToolTip("YouTube Clipboard Watcher")
+        self.setToolTip("YouTube Clipboard Monitor")
 
         # Script and monitoring state
         self.script_path = os.path.expanduser("~/Scripts/clipboard_ytdlp.sh")
